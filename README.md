@@ -52,7 +52,3 @@ Open to internships, junior developer roles, and collaborative projects.
 ---
 
 Thank you for visiting my GitHub profile.
-
-
-- ⚡ Fun fact: ...
--->
